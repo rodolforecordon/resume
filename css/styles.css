@@ -1,3 +1,35 @@
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
+
+#rounded-img {
+    filter: grayscale(20%);
+}
+
+.fa {
+    text-align: center;
+    text-decoration: none;
+    margin-left: 5px;
+}
+
+.fa:hover {
+    background-color: #4a5568;
+}
+
+.fa-linkedin {
+    background: #f7fafc;
+    color: #38a169;
+    padding: 4px;
+  }
+
+.fa-github {
+    background: #f7fafc;
+    color:#38a169;
+    padding: 4px;
+}
+
+.fa-github {
+    background: #f7fafc;
+    color:#38a169;
+    padding: 4px;
+}
